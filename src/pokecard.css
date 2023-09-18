@@ -1,0 +1,30 @@
+.pokecard-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 400px;
+    background-color: #b9bbb6;
+    border-radius: 10px;
+}
+
+.pokecard-name {
+    font-size: 15px;
+    color: #1c05b3;
+    font-weight: bold;
+}
+
+.pokecard-sprite {
+    height: 200px;
+    width: 200px;
+}
+
+.pokecard-type {
+    font-size: 10px;
+    color: #000000;
+}
+
+.pokecard-experience {
+    font-size: 10px;
+    color: #000000;
+}
